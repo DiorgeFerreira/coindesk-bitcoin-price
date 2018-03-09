@@ -1,0 +1,6 @@
+C:\Users\diorg\Documents\GitHub\coindesk-bitcoin-price\CoinDeskBitcoinPrice\CoinDeskBitcoinPrice\bin\Debug\CoinDeskBitcoinPrice.dll
+C:\Users\diorg\Documents\GitHub\coindesk-bitcoin-price\CoinDeskBitcoinPrice\CoinDeskBitcoinPrice\bin\Debug\CoinDeskBitcoinPrice.pdb
+C:\Users\diorg\Documents\GitHub\coindesk-bitcoin-price\CoinDeskBitcoinPrice\CoinDeskBitcoinPrice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diorg\Documents\GitHub\coindesk-bitcoin-price\CoinDeskBitcoinPrice\CoinDeskBitcoinPrice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diorg\Documents\GitHub\coindesk-bitcoin-price\CoinDeskBitcoinPrice\CoinDeskBitcoinPrice\obj\Debug\CoinDeskBitcoinPrice.dll
+C:\Users\diorg\Documents\GitHub\coindesk-bitcoin-price\CoinDeskBitcoinPrice\CoinDeskBitcoinPrice\obj\Debug\CoinDeskBitcoinPrice.pdb
